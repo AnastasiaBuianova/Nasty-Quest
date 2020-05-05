@@ -418,7 +418,7 @@ ul.style4 .first
 
 #page .content
 {
-	width: 400px;
+	width: 200px;
 }
 
 #page .content p
@@ -454,11 +454,11 @@ ul.style4 .first
 }
 
 #lucca {
-    position: auto;
-    top: 100px;
-    right: 0;
-    width: 200px;
-    height: 100px;
+    position: absolute;
+    top: 42em;
+    left: 54em;
+    width: 54em;
+    height: 0em;
     
 }
 
@@ -486,11 +486,11 @@ ul.style4 .first
 }
 
 #jaki {
-    position: auto;
-    top: 100px;
-    right: 0;
-    width: 200px;
-    height: 100px;
+    position: absolute;
+    top: 84em;
+    left: 24em;
+    width: 40em;
+    height: 40em;
     
 }
 
@@ -518,11 +518,11 @@ ul.style4 .first
 }
 
 #clemens {
-    position: auto;
-    top: 100px;
-    right: 0;
-    width: 200px;
-    height: 100px;
+    position: absolute;
+    top: 82em;
+    left: 92em;
+    width: 40em;
+    height: 40em;
     
 }
 
@@ -550,11 +550,11 @@ ul.style4 .first
 }
 
 #nastia {
-    position: auto;
-    top: 100px;
-    right: 0;
-    width: 200px;
-    height: 100px;
+    position: absolute;
+    top: 75em;
+    left: 60em;
+    width: 40em;
+    height: 40em;
     
 }
 
@@ -582,11 +582,11 @@ ul.style4 .first
 }
 
 #jan {
-    position: auto;
-    top: 100px;
-    right: 0;
-    width: 200px;
-    height: 100px;
+    position: absolute;
+    top: 46em;
+    left: 93em;
+    width: 40em;
+    height: 40em;
     
 }
 
@@ -611,6 +611,10 @@ ul.style4 .first
     background-color: #E94730;
     border: 10px hidden #E94730;
     border-radius: 20px 20px 20px 20px;
+}
+
+#jan p {
+    text-align: right;
 }
 
 /** CONTENT */
