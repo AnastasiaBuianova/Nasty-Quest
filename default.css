@@ -533,15 +533,21 @@ ul.style4 .first
 #box2
 {
 	float: left;
-	width: 436px;
+	width: 350px;
 	padding: 0px 20px;
 }
 
 #box3
 {
 	float: right;
-	width: 252px;
+	width: 338px;
 }
+
+#box3-spalte {
+    width: 160px;
+    float: left;
+}
+
 
 /* Footer */
 
