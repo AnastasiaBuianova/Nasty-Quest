@@ -253,7 +253,7 @@ ul.style4 .first
 /** WRAPPER */
 
 #header {
-    background: #000000 url(images/img01.jpeg) repeat;
+    background: #000000 url(images/img06.jpeg) repeat;
 }
 
 #wrapper {
@@ -264,8 +264,8 @@ ul.style4 .first
 
 #featured-wrapper {
 	overflow: hidden;
-	padding: 6em 50px;
-	background: #E54732;
+	padding: 3em 50px;
+	background: #e9d330;
 	color: #2D2D2D;
 }
 
@@ -388,13 +388,13 @@ ul.style4 .first
     font-size: 1.4em;
 	font-weight: 400;
 	font-family: 'Raleway', sans-serif;
-	color: #E94730;
+	color: #FFF;
 	border: none;
 }
 
 #menu a:hover, #menu .current_page_item a {
 	text-decoration: none;
-	color: #FFFFFF;
+	color: #E94730;
 }
 
 #menu .current_page_item a {
@@ -409,10 +409,10 @@ ul.style4 .first
 
 #page {
 	overflow: hidden;
-	height: 35em;
+	height: 48em;
 	padding-top: 4em;
 	padding-left: 50px;
-	background: url(images/img02.png) no-repeat right bottom;
+	background: url(images/img01.jpeg) no-repeat right bottom;
 	color: #6A6A6A;
 }
 
@@ -445,7 +445,7 @@ ul.style4 .first
 	text-transform: uppercase;
 	font-size: 1.8em;
 	font-weight: 200;
-	color: #E94730;
+	color: #e9d330;
 }
 
 #page p
@@ -581,18 +581,10 @@ ul.style4 .first
 	color: #FFFFFF;
 }
 
-.button-style-opening
+.button-style-alt
 {
-	background: #E94730;
+	background: #e9d330;
 	padding: 15px 20px;
 	font-size: 1.3em;
 	font-weight: 600;
-}
-
-.button-style-alt
-{
-    background: #e9d330;
-    padding: 15px 20px;
-    font-size: 1.3em;
-    font-weight: 600;
 }

@@ -253,7 +253,7 @@ ul.style4 .first
 /** WRAPPER */
 
 #header {
-    background: #000000 url(images/img01.jpeg) repeat;
+    background: #000000 url(images/img11.jpg) repeat bottom;
 }
 
 #wrapper {
@@ -264,8 +264,9 @@ ul.style4 .first
 
 #featured-wrapper {
 	overflow: hidden;
-	padding: 6em 50px;
-	background: #E54732;
+    height: 35em;
+	padding: 1em 100px;
+	background: #cadadb;
 	color: #2D2D2D;
 }
 
@@ -273,7 +274,7 @@ ul.style4 .first
 {
 	margin-bottom: 30px;
 	text-transform: uppercase;
-	font-weight: 300;
+	font-weight: 600;
 	font-size: 1.8em;
 	color: #FFF;
 }
@@ -281,6 +282,7 @@ ul.style4 .first
 #featured-wrapper span
 {
 	font-size: 0.80em !important;
+    font-weight: 300;
 	color: #323232;
 }
 
@@ -388,13 +390,13 @@ ul.style4 .first
     font-size: 1.4em;
 	font-weight: 400;
 	font-family: 'Raleway', sans-serif;
-	color: #E94730;
+	color: #FFF;
 	border: none;
 }
 
 #menu a:hover, #menu .current_page_item a {
 	text-decoration: none;
-	color: #FFFFFF;
+	color: #E94730;
 }
 
 #menu .current_page_item a {
@@ -409,11 +411,9 @@ ul.style4 .first
 
 #page {
 	overflow: hidden;
-	height: 35em;
+    padding: 1em 20px;
+    background: black;
 	padding-top: 4em;
-	padding-left: 50px;
-	background: url(images/img02.png) no-repeat right bottom;
-	color: #6A6A6A;
 }
 
 #page .content
@@ -581,7 +581,7 @@ ul.style4 .first
 	color: #FFFFFF;
 }
 
-.button-style-opening
+.button-style-alt
 {
 	background: #E94730;
 	padding: 15px 20px;
@@ -589,10 +589,8 @@ ul.style4 .first
 	font-weight: 600;
 }
 
-.button-style-alt
+table
 {
-    background: #e9d330;
-    padding: 15px 20px;
-    font-size: 1.3em;
-    font-weight: 600;
+    background-color:#cadadb
+    
 }
